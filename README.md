@@ -12,6 +12,9 @@
 3. Install FactAPi: pip install fastapi uvicorn
 5. run: uvicorn main:app --reload
 
+# Dataset link
+  https://www.kaggle.com/datasets/fatihkgg/affectnet-yolo-format
+
 # Models Link
   PyTorch models: https://drive.google.com/drive/folders/12-tpSJAc-tq1bDYKwN5tfhYQOdIUVzuX?usp=drive_link
   ONNX models: https://drive.google.com/drive/folders/128PDDXSYdEv0ytusLmlcfwD60Hi02Je-?usp=drive_link
