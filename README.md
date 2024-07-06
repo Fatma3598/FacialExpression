@@ -1,4 +1,4 @@
-# FacualExpression Notebook
+# FacialExpression Notebook
 1. Code for affectnet-yolo-format dataset downloading in colab or working with it directly in kaggle
 2. PyTorch model creation, training, validation and testing
 
